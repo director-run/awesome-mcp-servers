@@ -131,6 +131,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy)  📇 🏠 - A comprehensive proxy server that combines multiple MCP servers into a single interface with extensive visibility features. It provides discovery and management of tools, prompts, resources, and templates across servers, plus a playground for debugging when building MCP servers.
 - [WayStation-ai/mcp](https://github.com/waystation-ai/mcp) ☁️ 🍎 🪟 - Seamlessly and securely connect Claude Desktop and other MCP hosts to your favorite apps (Notion, Slack, Monday, Airtable, etc.). Takes less than 90 secs.
 - [wegotdocs/open-mcp](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Turn a web API into an MCP server in 10 seconds and add it to the open source registry: https://open-mcp.org
+- [director-run/director](https://github.com/director-run/director) 📇 ☁️ 🏠 🍎 🐧 - Director is a gateway that allows you to build multiple proxies and serve them from a single endpoint via it's CLI. It also makes managing your proxies a breeze with it's browser app.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
